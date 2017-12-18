@@ -1,13 +1,12 @@
 #  Monitoreo de cuerpos de agua en el Sistema Nacional de Áreas Silvestres Protegidas (SNASPE)
->*Autores: Ignacio Díaz Hormazábal y Diego Valencia D.*
-*Versión: v.1* 
+>*Autores: Ignacio Díaz Hormazábal y Diego Valencia D.*  
+*Versión: v.1*   
 *Fecha: octubre 2017*
 
+###### El presente código R permite el reporte de resultados del monitoreo de cuerpos de Agua  
+###### Esta primera versión permite generar un gráfico que resume el cambio temporal en extensión de los cuerpos de agua
 
->El presente código R permite el reporte de resultados del monitoreo de cuerpos de Agua
-Esta primera versión permite generar un gráfico que resume el cambio temporal en extensión de los cuerpos de agua
-
-####  Codigo de regiones
+**Codigo de regiones**
 
 + 0_Arica
 + 1_Tarapaca
