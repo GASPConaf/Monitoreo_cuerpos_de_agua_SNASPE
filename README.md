@@ -10,10 +10,9 @@ El presente código R permite el reporte de resultados del monitoreo de cuerpos 
 
 El código esta enlazado a la base de datos actualizada para cada uno de los cuerpos de agua dentro de SNASPE, por ahora la busqueda particular no es intuitiva, sin embargo, se esta trabajando en una versión interactiva con busqueda por región y unidad.  
 
-Para seleccionar un cuerpo de agua primero 
+Para seleccionar un cuerpo de agua primero debe ingresar el código de la región:
 
 **Codigo de regiones**
-
 + 0_Arica
 + 1_Tarapaca
 + 2_Antofagasta
@@ -31,4 +30,11 @@ Para seleccionar un cuerpo de agua primero
 Por ejemplo:  
 ~~~
 region<-"0_Arica" 
+~~~
+
+Luego debe ingresar un número correlativo para indicar el cuerpo de agua:
+
+Por ejemplo:  
+~~~
+laguna<-1
 ~~~
