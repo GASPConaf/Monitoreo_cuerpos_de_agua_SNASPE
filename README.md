@@ -3,8 +3,14 @@
 *Versión: v.1*   
 *Fecha: octubre 2017*
 
-###### El presente código R permite el reporte de resultados del monitoreo de cuerpos de Agua  
-###### Esta primera versión permite generar un gráfico que resume el cambio temporal en extensión de los cuerpos de agua
+El presente código R permite el reporte de resultados del monitoreo de cuerpos de Agua. Esta primera versión genera un gráfico que resume el cambio temporal en extensión del cuerpos de agua como se muestra a continuación:
+
+
+![alt text](https://github.com/GapConaf/Monitoreo_cuerpos_de_agua/blob/master/Imagen1.png "Logo Title Text 1")
+
+El código esta enlazado a la base de datos actualizada para cada uno de los cuerpos de agua dentro de SNASPE, por ahora la busqueda particular no es intuitiva, sin embargo, se esta trabajando en una versión interactiva con busqueda por región y unidad.  
+
+Para seleccionar un cuerpo de agua primero 
 
 **Codigo de regiones**
 
@@ -22,5 +28,6 @@
 + 11_Aysen
 + 12_Magallanes
 
+Por ejemplo:
+  region<-"0_Arica" 
 
-![alt text](https://github.com/GapConaf/Monitoreo_cuerpos_de_agua/blob/master/Imagen1.png "Logo Title Text 1")
