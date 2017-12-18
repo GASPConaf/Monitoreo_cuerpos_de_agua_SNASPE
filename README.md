@@ -4,4 +4,4 @@
 
 
 
-![alt text](https://github.com/GapConaf/Monitoreo_cuerpos_de_agua/Imagen1.png "Logo Title Text 1")
+![alt text](https://github.com/GapConaf/Monitoreo_cuerpos_de_agua/blob/master/Imagen1.png "Logo Title Text 1")
