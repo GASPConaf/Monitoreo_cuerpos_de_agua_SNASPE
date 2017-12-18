@@ -1,5 +1,5 @@
 #  Monitoreo de cuerpos de agua en el Sistema Nacional de Áreas Silvestres Protegidas (SNASPE)
-*Autores: Ignacio Díaz Hormazábal y Diego Valencia D.*
+>*Autores: Ignacio Díaz Hormazábal y Diego Valencia D.*
 *Versión: v.1* 
 *Fecha: octubre 2017*
 
