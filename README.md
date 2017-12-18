@@ -2,10 +2,10 @@
 #### Autores: *Ignacio Díaz Hormazábal y Diego Valencia D.
 
 
-##### >El presente código R permite el reporte de resultados del monitoreo de cuerpos de Agua
+>El presente código R permite el reporte de resultados del monitoreo de cuerpos de Agua
 Esta primera versión permite generar un gráfico que resume el cambio temporal en extensión de los cuerpos de agua
 
-> Codigo de regiones
+####> Codigo de regiones
 
 +0_Arica
 +1_Tarapaca
