@@ -4,4 +4,4 @@
 
 
 
-![alt text](https://github.com/3khoz/FunctionalConectivity_v.1/blob/master/ejemplo%20-%20copia.png "Logo Title Text 1")
+![alt text](https://github.com/GapConaf/Monitoreo_cuerpos_de_agua/Imagen1.png "Logo Title Text 1")
