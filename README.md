@@ -28,6 +28,7 @@ Para seleccionar un cuerpo de agua primero
 + 11_Aysen
 + 12_Magallanes
 
-Por ejemplo:
-  region<-"0_Arica" 
-
+Por ejemplo:  
+~~~
+region<-"0_Arica" 
+~~~
