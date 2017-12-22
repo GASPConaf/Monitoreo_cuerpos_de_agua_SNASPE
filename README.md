@@ -6,12 +6,12 @@
 *Descargar base de datos:* [DataBase](https://github.com/GapConaf/Monitoreo_cuerpos_de_agua/tree/master/Data "DataBase")  
 *Descargar código R:* [código](https://github.com/GapConaf/Monitoreo_cuerpos_de_agua/blob/master/Grafico_serie_agua.R "código")
 
-El presente código R permite el reporte de resultados del monitoreo de cuerpos de Agua. Esta primera versión genera un gráfico que resume el cambio temporal en extensión del cuerpos de agua como se muestra a continuación:
+El presente código R permite el reporte de resultados del monitoreo de cuerpos de Agua. Esta primera versión genera un gráfico que resume el cambio temporal en extensión del cuerpo de agua como se muestra a continuación:
 
 
 ![alt text](https://github.com/GapConaf/Monitoreo_cuerpos_de_agua/blob/master/Imagen1.png "Laguna Matanzas R.N. El Yali")
 
-El código esta enlazado a la base de datos actualizada para cada uno de los cuerpos de agua dentro de SNASPE, por ahora la busqueda particular no es intuitiva, sin embargo, se esta trabajando en una versión interactiva con busqueda por región y unidad.  
+El código esta enlazado a la base de datos actualizada para cada uno de los cuerpos de agua dentro de SNASPE, por ahora la busqueda particular no es intuitiva, sin embargo, se esta trabajando en una versión interactiva con busqueda por región y unidad mediante las extensiones Shiny y Markdown.  
 
 Para seleccionar un cuerpo de agua primero debe ingresar el código de la región:
 
