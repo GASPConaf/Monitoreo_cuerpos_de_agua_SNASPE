@@ -11,7 +11,7 @@ El presente código R permite el reporte de resultados del monitoreo de cuerpos 
 
 ![alt text](https://github.com/GapConaf/Monitoreo_cuerpos_de_agua/blob/master/Imagen1.png "Laguna Matanzas R.N. El Yali")
 
-El código esta enlazado a la base de datos actualizada para cada uno de los cuerpos de agua dentro de SNASPE, por ahora la busqueda particular no es intuitiva, sin embargo, se esta trabajando en una versión interactiva con busqueda por región y unidad mediante las extensiones Shiny y Markdown.  
+El código esta enlazado a la base de datos actualizada para cada uno de los cuerpos de agua dentro de SNASPE, por ahora la busqueda particular no es intuitiva, sin embargo, se está trabajando en una versión interactiva con busqueda por región y unidad mediante las extensiones Shiny y Markdown.  
 
 Para seleccionar un cuerpo de agua primero debe ingresar el código de la región:
 
